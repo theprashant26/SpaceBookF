@@ -5948,13 +5948,13 @@ START: Header CSS
 }
 .testi-thumb-wrap .thumb-carousel .testi-author-wrap .testi-thumb {
   height: 160px;
-  width: 160px;
+  width: 120px;
   border-radius: 50%;
 }
 @media only screen and (max-width: 767px) {
   .testi-thumb-wrap .thumb-carousel .testi-author-wrap .testi-thumb {
     height: 80px;
-    width: 80px;
+    width: 60px;
   }
 }
 .testi-thumb-wrap .thumb-carousel .testi-author-wrap .author-content {
