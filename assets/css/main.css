@@ -4573,7 +4573,7 @@ START: Header CSS
 }
 .service-item-2 .service-img {
   position: absolute;
-  top: -100px;
+  top: -30px;
   left: 0;
   border-radius: 50% 50% 0 50%;
   z-index: 1;
@@ -5948,13 +5948,13 @@ START: Header CSS
 }
 .testi-thumb-wrap .thumb-carousel .testi-author-wrap .testi-thumb {
   height: 160px;
-  width: 120px;
+  width: 160px;
   border-radius: 50%;
 }
 @media only screen and (max-width: 767px) {
   .testi-thumb-wrap .thumb-carousel .testi-author-wrap .testi-thumb {
     height: 80px;
-    width: 60px;
+    width: 80px;
   }
 }
 .testi-thumb-wrap .thumb-carousel .testi-author-wrap .author-content {
